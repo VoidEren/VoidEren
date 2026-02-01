@@ -39,8 +39,9 @@
 
 - ⚡ Fun fact **I really enjoy programming and learning about technologies, but even though I have tons of projects, I don't save them or I forget to publish them on GitHub or my professional social media 😜😜**
 
-  ## 🎧 Ahora escuchando
-![Spotify Playing](https://spotify-playing-readme.vercel.app/)
+## 🎧 Mi himno
+[![Mi himno](https://i.scdn.co/image/ab67616d0000b273XXXXXXXXXXXX)](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT)
+
 
 
 <div align="center" style="border:1px solid #30363d; border-radius:12px; padding:16px; margin:20px 0;">
