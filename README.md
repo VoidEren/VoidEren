@@ -39,6 +39,9 @@
 
 - ⚡ Fun fact **I really enjoy programming and learning about technologies, but even though I have tons of projects, I don't save them or I forget to publish them on GitHub or my professional social media 😜😜**
 
+  ## 🎧 Ahora escuchando
+![Spotify Playing](https://spotify-playing-readme.vercel.app/)
+
 
 <div align="center" style="border:1px solid #30363d; border-radius:12px; padding:16px; margin:20px 0;">
 
@@ -107,12 +110,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=voideren&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=voideren&show_icons=true&theme=dark"
     height="160"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=voideren&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=voideren&layout=compact&theme=dark"
     height="160"
     alt="Top languages"
   />
@@ -125,6 +128,10 @@
   />
 </p>
 <div align="center" style="border:1px solid #30363d; border-radius:12px; padding:16px; margin:20px 0;">
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
 <h3>☕ Support My Work</h3>
 
