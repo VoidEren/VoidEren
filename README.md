@@ -29,23 +29,11 @@
 
 - ⚡ Fun fact **I really enjoy programming and learning about technologies, but even though I have tons of projects, I don't save them or I forget to publish them on GitHub or my professional social media 😜😜**
 
+
 <h2 align="center">🕯 Contact Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angel-uriel-espinosa-moreno/" target="_blank">
-    <img src="https://raw.githubusercontent.com/VoidEren/VoidEren/main/assets/images/linkedin.svg" width="52"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.youtube.com/@angelurielespinosamoreno" target="_blank">
-    <img src="https://raw.githubusercontent.com/VoidEren/VoidEren/main/assets/images/youtube.svg" width="52"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:angelkitsoidm@gmail.com">
-    <img src="https://raw.githubusercontent.com/VoidEren/VoidEren/main/assets/images/email.svg" width="52"/>
-  </a>
+  <a href="https://www.linkedin.com/in/angel-uriel-espinosa-moreno-2718b5328/" target="_blank"><img src="https://raw.githubusercontent.com/VoidEren/VoidEren/main/assets/images/linkedin.svg" width="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@angelurielespinosamoreno" target="_blank"><img src="https://raw.githubusercontent.com/VoidEren/VoidEren/main/assets/images/youtube.svg" width="52"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:angelkitsoidm@gmail.com"><img src="https://raw.githubusercontent.com/VoidEren/VoidEren/main/assets/images/gmail.svg" width="52"/></a>
 </p>
-
