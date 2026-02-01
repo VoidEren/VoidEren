@@ -29,32 +29,49 @@
 
 - ⚡ Fun fact **I really enjoy programming and learning about technologies, but even though I have tons of projects, I don't save them or I forget to publish them on GitHub or my professional social media 😜😜**
 
-<h1>Contact me!</h1>
+<h2 align="center" style="color:#c9b37e;">🕯 Contact Me</h2>
 
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/angel-uriel-espinosa-moreno/" target="_blank">
-    <svg width="32" height="32" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0 24C0 10.7452 10.7452 0 24 0C37.2548 0 48 10.7452 48 24C48 37.2548 37.2548 48 24 48C10.7452 48 0 37.2548 0 24Z" fill="#0077B5"/>
-      <path d="M17.3188 14.8227C17.3188 16.3918 16.1377 17.6473 14.2412 17.6473C12.3805 17.6473 11.2 16.3918 11.2 14.8227C11.2 13.2204 12.4164 12 14.277 12C16.1377 12 17.2835 13.2204 17.3188 14.8227ZM16.9605 19.8778V36.2196H11.5216V19.8778H16.9605ZM36.5752 36.2196V26.8497C36.5752 21.8303 33.8922 19.4941 30.3131 19.4941C27.4254 19.4941 26.1325 21.0802 25.4107 22.1929V19.8783H19.9711V36.22H25.4107V27.0934C25.4107 25.2807 26.8779 23.7822 28.3805 23.7822C30.3494 23.7822 31.1365 25.2807 31.1365 27.4767V36.2196H36.5752Z" fill="white"/>
+    <svg width="40" height="40" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <radialGradient id="lg" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#2b2b2b"/>
+          <stop offset="100%" stop-color="#0b0b0b"/>
+        </radialGradient>
+      </defs>
+      <circle cx="24" cy="24" r="22" fill="url(#lg)" stroke="#7a1f1f" stroke-width="1.5"/>
+      <path fill="#c9b37e" d="M17.3 14.8c0 1.6-1.2 2.8-3.1 2.8s-3-1.2-3-2.8c0-1.6 1.2-2.8 3.1-2.8s3 1.2 3 2.8ZM16.9 19.9v14.3h-5.4V19.9h5.4Zm19.6 14.3V26.8c0-5-2.7-7.3-6.3-7.3-2.9 0-4.2 1.6-4.9 2.7v-2.3H20v14.3h5.4v-7.1c0-1.9 1.4-3.3 3-3.3 2 0 2.8 1.5 2.8 3.7v6.7h5.4Z"/>
     </svg>
   </a>
 
   <!-- YouTube -->
   <a href="https://www.youtube.com/@angelurielespinosamoreno" target="_blank">
-    <svg width="32" height="32" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0 24C0 10.7452 10.7452 0 24 0C37.2548 0 48 10.7452 48 24C48 37.2548 37.2548 48 24 48C10.7452 48 0 37.2548 0 24Z" fill="#FF0000"/>
-      <path d="M36.265 18.0732C35.9706 16.9422 35.1031 16.0516 34.0016 15.7493C32.0054 15.2 24 15.2 24 15.2C24 15.2 15.9946 15.2 13.9983 15.7493C12.8967 16.0516 12.0292 16.9422 11.7348 18.0732C11.2 20.1231 11.2 24.4 11.2 24.4C11.2 24.4 11.2 28.6768 11.7348 30.7268C12.0292 31.8578 12.8967 32.7484 13.9983 33.0508C15.9946 33.6 24 33.6 24 33.6C24 33.6 32.0054 33.6 34.0016 33.0508C35.1031 32.7484 35.9706 31.8578 36.265 30.7268C36.8 28.6768 36.8 24.4 36.8 24.4C36.8 24.4 36.8 20.1231 36.265 18.0732Z" fill="white"/>
-      <path d="M21.6 28.8V20.8L28 24.8L21.6 28.8Z" fill="#FF0000"/>
+    <svg width="40" height="40" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <radialGradient id="yt" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#2b2b2b"/>
+          <stop offset="100%" stop-color="#0b0b0b"/>
+        </radialGradient>
+      </defs>
+      <circle cx="24" cy="24" r="22" fill="url(#yt)" stroke="#7a1f1f" stroke-width="1.5"/>
+      <polygon points="21,19 30,24 21,29" fill="#c9b37e"/>
     </svg>
   </a>
 
   <!-- Email -->
   <a href="mailto:angelkitsoidm@gmail.com">
-    <svg width="32" height="32" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="24" cy="24" r="24" fill="#D54B3D"/>
-      <path d="M12 16h24v16H12z" fill="white"/>
-      <path d="M12 16l12 9 12-9" fill="none" stroke="#D54B3D" stroke-width="2"/>
+    <svg width="40" height="40" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <radialGradient id="em" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#2b2b2b"/>
+          <stop offset="100%" stop-color="#0b0b0b"/>
+        </radialGradient>
+      </defs>
+      <circle cx="24" cy="24" r="22" fill="url(#em)" stroke="#7a1f1f" stroke-width="1.5"/>
+      <path d="M14 18h20v12H14z" fill="#c9b37e"/>
+      <path d="M14 18l10 7 10-7" fill="none" stroke="#7a1f1f" stroke-width="1.5"/>
     </svg>
   </a>
 </p>
